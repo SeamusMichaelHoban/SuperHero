@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\SuperHeroOOP\SuperHeroOOP\bin\Debug\SuperHeroOOP.exe.config
+C:\Users\WeCanCodeIT\source\repos\SuperHeroOOP\SuperHeroOOP\bin\Debug\SuperHeroOOP.exe
+C:\Users\WeCanCodeIT\source\repos\SuperHeroOOP\SuperHeroOOP\bin\Debug\SuperHeroOOP.pdb
+C:\Users\WeCanCodeIT\source\repos\SuperHeroOOP\SuperHeroOOP\obj\Debug\SuperHeroOOP.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\SuperHeroOOP\SuperHeroOOP\obj\Debug\SuperHeroOOP.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\SuperHeroOOP\SuperHeroOOP\obj\Debug\SuperHeroOOP.exe
+C:\Users\WeCanCodeIT\source\repos\SuperHeroOOP\SuperHeroOOP\obj\Debug\SuperHeroOOP.pdb
