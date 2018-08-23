@@ -19,6 +19,9 @@ namespace SuperHeroOOP
             Superhero superman = new Superhero("Superman", "Lex Luthor", "Clark Kent", supermanAbilities);
             Console.WriteLine(superman.Nemesis);
             Console.WriteLine(superman.SecretIdentity);
+
+            Superhero greenLantern = new Superhero("batman", false);
+            Console.WriteLine(greenLantern.Name);
         }
 
     }
